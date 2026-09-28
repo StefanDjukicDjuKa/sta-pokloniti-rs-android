@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ŠTA POKLONITI RS</string>
+    <string name="loading_text">Učitavanje aplikacije…</string>
+    <string name="offline_text">Na pauzi smo dok ne popraviš vezu sa internetom, kad to rešiš bićemo tu pre tebe.</string>
+    <string name="refresh">OSVEŽI</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="brand_red">#FF2D55</color>
+    <color name="brand_dark">#1D2430</color>
+    <color name="brand_yellow">#FFE600</color>
+    <color name="soft_pink">#FFF4F6</color>
+    <color name="muted_text">#6F717A</color>
+    <color name="progress_track">#F4D7DE</color>
+</resources>

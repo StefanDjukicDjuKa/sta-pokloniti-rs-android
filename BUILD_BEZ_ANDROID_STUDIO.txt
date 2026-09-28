@@ -1,0 +1,11 @@
+ŠTA POKLONITI RS — BUILD BEZ ANDROID STUDIO
+
+Ovaj projekat već sadrži GitHub Actions workflow koji pravi APK u oblaku.
+
+1. Napravi/poveži GitHub nalog.
+2. Postavi ceo sadržaj ovog projekta u novi GitHub repository.
+3. Otvori karticu Actions -> "Build ŠTA POKLONITI RS APK" -> Run workflow.
+4. Kada završi, na dnu build stranice preuzmi artifact "STA_POKLONITI_RS_APK".
+5. U artifact ZIP-u nalazi se STA_POKLONITI_RS.apk spreman za instalaciju na Android telefon.
+
+Nije potreban Android Studio na računaru.
